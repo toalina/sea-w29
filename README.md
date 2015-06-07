@@ -79,3 +79,12 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+What contributed most to your learning in today's workshop? 
+Hands on step-by-step activites were good. Working through Git (up until the SSH key setup) was very clear and easy to follow. I missed the piece about "-v" after remote. Was "git remote -v" just to connect my computer to remote repo? 
+
+What was the least helpful to your learning? 
+There was a lot of setting up in the beginning of class. Wish that didn't take up so much time, so we could've started working on the command line activity. More time and maybe a clearer list of terminal commands would have been helpful. Also, more time on GitHub Pull Requests ( and everything after add/commit) would have been helpful.
+
+Would you recommend this workshop to a friend (0-10)?
+7. If it wasn't so expensive for non-CF students.
